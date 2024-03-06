@@ -29,7 +29,11 @@ En esta calculadora encontrarás:
 ### Icono
 En mi calculadora he usado un pequeño icono representativo y llamativo para el usuario: 
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKiW2iiDiXP5nY72zLaMYLwJ78C-tch5yCUw&usqp=CAU)
+<p align="center">
+<img src="media/calculadora_cientifica.png"/>
+<img src="media/calculadora_sencilla.png"/>
+<img src="media/calculadora_conversion.png"/>
+</p>
 
 
 ###Sequence Diagram
