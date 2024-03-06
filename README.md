@@ -24,9 +24,9 @@ En esta calculadora encontrarás:
 - Operaciones basicas: como sumar, restar, multiplicar y dividir.
 - Operaciones avanzadas: como porcentajes, conseno, tangente...
 - Cambio de símbolo
-- Operaciones de guardado en memoria: donde podras guardar el resultado en memoria  ***MS*** o podrás borrar el valor actual de la memoria ***MR*** o podrás recuperar el valor de la memoria para seguir trabajando con el ***MC***  
+- Operaciones de guardado en memoria: donde podras guardar el resultado en memoria  ***MS*** o podrás borrar el valor actual de la memoria ***MR*** o podrás recuperar el valor de la memoria para seguir trabajando con el ***MC*** 
 
-###Icono
+### Icono
 En mi calculadora he usado un pequeño icono representativo y llamativo para el usuario: 
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKiW2iiDiXP5nY72zLaMYLwJ78C-tch5yCUw&usqp=CAU)
@@ -39,4 +39,4 @@ Calc. Conversiones->Cintífica:Edición
 Fijar valor-->Moneda: API dolar/euros
 ```
 
-###End
+
